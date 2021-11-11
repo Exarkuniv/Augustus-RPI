@@ -18,6 +18,9 @@ Gameplay enhancements include:
 
 Because of gameplay changes and additions, save files from Augustus are NOT compatible with Caesar 3 or Julius. Augustus is able to load Caesar 3 save files, but not the other way around. If you want vanilla experience with visual and UI improvements, or want to use save files in base Caesar 3, check Julius.
 
+```
+wget https://raw.githubusercontent.com/Exarkuniv/Augustus-RPI/Master/augustus.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+```
 
 In order to play: Add all data files from your Caesar 3 installation folder to /home/pi/RetroPie/roms/ports/caesar3. This could be from the GOG version.
 Augustus supports the playback of MP3 files instead of the original, low-quality wav files.
