@@ -1,7 +1,7 @@
 # Augustus-RPI
 
 Caesar III for Raspberry Pi based on Augustus source port
-
+![CaesarIII-RPI](https://github.com/tpo1990/CaesarIII-RPI/blob/master/Screenshots/caesar3-1?raw=true)
 Augustus - enhanced port of Caesar 3
 
 The aim of this project is to provide enhanced, customizable gameplay to Caesar 3 using project Julius UI enhancements.
