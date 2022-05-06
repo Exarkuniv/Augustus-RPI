@@ -36,6 +36,7 @@ function build_augustus() {
 function install_augustus() {
     md_ret_files=(
        'augustus'
+       'src/assets/'
     )
 }
 
